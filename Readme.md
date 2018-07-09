@@ -1,7 +1,7 @@
 
 # tSNEJS
 
-tSNEJS is an implementation of t-SNE visualization algorithm in Javascript. 
+tSNEJS is an implementation of t-SNE visualization algorithm in Javascript. ..
 
 t-SNE is a visualization algorithm that embeds things in 2 or 3 dimensions. If you have some data and you can measure their pairwise differences, t-SNE visualization can help you identify clusters in your data. See example below.
 
